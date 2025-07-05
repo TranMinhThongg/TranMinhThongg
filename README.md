@@ -12,8 +12,7 @@ A passionate backend developer 🚀 from Industrial University of Ho Chi Minh Ci
 
 ## 📫 Contact me:
 - 📧 Email: [iuh.thong1@gmail.com](mailto:iuh.thong1@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/thong-tran-5119a02a4/]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/thong-tran-5119a02a4/))
-
+- 💼 LinkedIn: [linkedin.com/in/thong-tran-5119a02a4/](https://www.linkedin.com/in/thong-tran-5119a02a4/)
 ---
 
 > 💡 *Hiện mình đang học và phát triển dự án cá nhân về RESTful API, học React, MongoDB, Docker, CI/CD...*
